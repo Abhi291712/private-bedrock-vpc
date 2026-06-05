@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+
+# uv
+.uv/
+uv.lock
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# AWS
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# Tests
+.pytest_cache/
+.coverage
+htmlcov/
